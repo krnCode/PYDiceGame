@@ -28,6 +28,10 @@ But really, this is a side project, and as I have work, chores and other things 
 
 As I'll progress through the project, I'll add the changes in the top of this README, like a changelog.
 
+## Project Plan
+
+I made a little project planning so it can help me to make things from beginning to end. You can check this out here: [A AGame of Dice](https://drive.google.com/drive/folders/1sUxKhpr9DKwoasaZ217a5a1cPq6y4grl)
+
 ## Closing
 
 As always, I appreciate constructive feedback. Thanks in advance!
