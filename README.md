@@ -30,7 +30,7 @@ As I'll progress through the project, I'll add the changes in the top of this RE
 
 ## Project Plan
 
-I made a little project planning so it can help me to make things from beginning to end. You can check this out here: [A Game of Dice](https://drive.google.com/drive/folders/1sUxKhpr9DKwoasaZ217a5a1cPq6y4grl)
+I made a little project planning so it can help me to make things from beginning to end. You can check this out here: [A Game of Dice](https://docs.google.com/document/d/1_EE2bnt9n8NKdreAe_ASHtDF8hAiSuswM3SmvQQ-y4M/edit?usp=sharing)
 
 ## Closing
 
