@@ -32,6 +32,10 @@ As I'll progress through the project, I'll add the changes in the top of this RE
 
 I made a little project planning so it can help me to make things from beginning to end. You can check this out here: [A Game of Dice](https://docs.google.com/document/d/1_EE2bnt9n8NKdreAe_ASHtDF8hAiSuswM3SmvQQ-y4M/edit?usp=sharing)
 
+## License
+
+This project is licensed under the terms of the MIT license. You can check the lincense in the root of this repository.
+
 ## Closing
 
 As always, I appreciate constructive feedback. Thanks in advance!
