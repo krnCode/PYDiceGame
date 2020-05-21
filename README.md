@@ -32,6 +32,10 @@ As I'll progress through the project, I'll add the changes in the top of this RE
 
 I made a little project planning so it can help me to make things from beginning to end. You can check this out here: [A Game of Dice](https://docs.google.com/document/d/1_EE2bnt9n8NKdreAe_ASHtDF8hAiSuswM3SmvQQ-y4M/edit?usp=sharing)
 
+## Trello
+
+There's also Trello, where I keep track of the progress of the project. It's set to public, so you guys can check out if you want to see what is being implemented, what I'm working on at the moment, what I'm thinking about in including, possibly what I could drop from the final game, etc. I guess it's a nice thing to look at if you're starting in working on your own projects, because dreamming and planning are just the first things you should do. The dream is not a dream anymore if you actually MAKE it real. And watching the project making it's steps into publishing grounds are important.
+
 ## License
 
 This project is licensed under the terms of the MIT license. You can check the lincense in the root of this repository.
