@@ -34,6 +34,8 @@ I made a little project planning so it can help me to make things from beginning
 
 ## Trello
 
+https://trello.com/b/An8eKnCk/a-game-of-dice
+
 There's also Trello, where I keep track of the progress of the project. It's set to public, so you guys can check out if you want to see what is being implemented, what I'm working on at the moment, what I'm thinking about in including, possibly what I could drop from the final game, etc. I guess it's a nice thing to look at if you're starting in working on your own projects, because dreamming and planning are just the first things you should do. The dream is not a dream anymore if you actually MAKE it real. And watching the project making it's steps into publishing grounds are important.
 
 ## License
