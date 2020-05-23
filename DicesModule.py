@@ -1,6 +1,7 @@
 '''
-This module contains all the dice functions for the game. The dices can be interpreted as 'weapons',
-since it is the only thing you use to confront enemies. 
+This module contains all the dice classes for the game.
+The dices can be interpreted as 'weapons', since it is
+the only thing you use to confront enemies. 
 '''
 
 import random
@@ -29,7 +30,7 @@ class DicesNormal:
         'DAMAGE: {DicesNormal.type_of_damage}\n'
         'LUCK: {DicesNormal.type_of_luck}'
 
-    def dice_roll(damage):
+    def dice_roll(self, damage):
         if damage == 'd6':
             d6 = random.randint(1, 6)
             return d6
