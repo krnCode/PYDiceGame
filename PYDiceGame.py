@@ -1,5 +1,6 @@
-import TextsModule as TexMod
-import DicesModule as DicMod
+from GameModules import TextsModule as TexMod
+from GameModules import PlayerModule as PlayerMod
+from GameModules import DicesModule as DiceMod
 import time
 
 
