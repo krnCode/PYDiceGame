@@ -1,7 +1,5 @@
 '''
-This module contains all the dice classes for the game.
-The dices can be interpreted as 'weapons', since it is
-the only thing you use to confront enemies. 
+TODO - Document DicesModule.
 '''
 
 import random

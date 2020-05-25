@@ -1,5 +1,5 @@
 '''
-This module defines the player character
+TODO - Document PlayerModule
 '''
 
 import random

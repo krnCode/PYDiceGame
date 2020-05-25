@@ -1,5 +1,5 @@
 """
-This module concentrates all the texts and functions that manipulate texts in the PYDiceGame.
+TODO - Document TextsModule.
 """
 
 import time
