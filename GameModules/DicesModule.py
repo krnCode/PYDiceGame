@@ -6,22 +6,10 @@ import random
 
 
 class DicesNormal:
-    '''
-    Defines the class DicesNormal, the normal 'weapons' in the game.
-    TODO - Better documentation of the class.
-    '''
-    # Class atributes
-    type_of_equip = 'Weapon'
-    type_of_damage = 'Neutral'
-    type_of_luck = 'Normal'
 
-    # Class instances attributes
-    def __init__(self, equip: str, damage: str, luck: float):
-        self.equip = equip
+    def __init__(self, damage: str):
         self.damage = damage
-        self.luck = luck
 
-    # Class instance methods
     def description(self):
         return f'A normal type of dice.\n'
         'EQUIP: {DicesNormal.type_of_equip}\n'

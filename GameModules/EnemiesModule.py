@@ -5,7 +5,7 @@ TODO - Document EnemiesModule
 import random
 
 
-class EnemyNormal:
+class EnemyNames:
 
     def __init__(self, name: str):
         names_enemy_humanoid = [
