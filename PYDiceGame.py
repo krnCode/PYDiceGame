@@ -17,7 +17,7 @@ def game_start():
         print(TexMod.gameplay_1)
 
         if input() == 'yes':
-            print(f'You rolled a ' + str(DicMod.d6_roll()))
+            print(f'You rolled a ' + str(DiceMod.d6_roll()))
 
         else:
             return TexMod.game_over_text()
