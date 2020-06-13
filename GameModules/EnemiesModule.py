@@ -41,13 +41,3 @@ class EnemyNames:
 
         else:
             name = name
-
-
-ze = EnemyNormal('')
-ze = EnemyNormal('')
-ze = EnemyNormal('')
-ze = EnemyNormal('')
-ze = EnemyNormal('')
-ze = EnemyNormal('')
-
-print(ze.name)

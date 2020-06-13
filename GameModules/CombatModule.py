@@ -52,4 +52,3 @@ class CombatDiceRace:
 
         else:
             print('game over')
-

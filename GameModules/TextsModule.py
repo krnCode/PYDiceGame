@@ -61,7 +61,7 @@ game_over_list = [
 
 # Combat texts descriptios
 combat_dice_race_description = 'DICE RACE \nGet to the desired number before your enemy'
-combat_max_roll_description = 'MAX ROLL \nGet a higher number hand than your enemy'
+combat_max_roll_description = 'MAX ROLL \nGet a higher number than your enemy'
 combat_min_roll_description = 'MINIMUM ROLL\nGet a lesser number than your enemy'
 combat_excact_number_description = 'EXACT NUMBER \nRoll the dice until you get the exact number'
 combat_cant_be_description = 'CAN\'T BE \nGet to the desired number, but following a determined set of rules'

@@ -64,11 +64,3 @@ class PlayerCharacter:
 
         self.life = 100
         self.dices = 3
-
-
-xuxa = PlayerCharacter('')
-xuxa = PlayerCharacter('')
-xuxa = PlayerCharacter('')
-
-
-print(xuxa.name)
